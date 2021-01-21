@@ -1,7 +1,7 @@
 # DesafiosBootcampDIO
-<h1> Códigos referentes aos desafios dos bootcamps da Digital Innovation One.</h1> 
+<h2> Códigos referentes aos desafios dos bootcamps da Digital Innovation One.</h2> 
 <ul>  
-  li>Intodução a programação com C#</li> 
+  <li>Intodução a programação com C#</li> 
   <ul>
     <li>1-Dividindo X por Y</li>
     <li>2-Distância</li>         
